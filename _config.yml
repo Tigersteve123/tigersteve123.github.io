@@ -12,7 +12,7 @@ email: yichens@mit.edu
 website: tigersteve123.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
@@ -30,10 +30,10 @@ youtube_username: tigerstevetech
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/IMG_7250.jpg
+about_profile_image: images/IMG_7250.JPG
 about_content: | # this will include new lines to allow paragraphs
   I'm Yichen.
 
@@ -75,7 +75,7 @@ content:
     content:
       - layout: left
         title: MIT Economics
-        link: boringcompany.com
+#        link: boringcompany.com
 #         # link_text: boringcompany.com
         sub_title: Research Assistant
         caption: January 2025 - Present
